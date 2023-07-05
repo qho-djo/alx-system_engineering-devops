@@ -6,4 +6,5 @@ The file "4-listmorefiles" display current directory contents, including hidden 
 The file "5-listfilesdigitonly" display current directory contents, including hidden files in numerical form.
 The file "6-firstdirectory" creates a directory in the "tmp" directory.
 The file "7-movethatfile" moves the file /tmp/betty to /tmp/myfirstdirectory.
+The file "8-firstdelete" deletes the file betty.
 
