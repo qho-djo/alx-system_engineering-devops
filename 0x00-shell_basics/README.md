@@ -12,4 +12,5 @@ The file "10-back" takes you back to the previous directory.
 The file "11-lists" displays the contents of the working, parent and /boot directories.
 The file "12-filetype" displays the type of file /tmp/iamafile is.
 The file "13-symboliclink" creates a link to /bin/ls.
+The file "14-copyhtml" copies all the new and non existing HTML files from the current working directory to the parent of the working directory.
 
