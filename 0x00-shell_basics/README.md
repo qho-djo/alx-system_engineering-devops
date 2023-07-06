@@ -13,4 +13,5 @@ The file "11-lists" displays the contents of the working, parent and /boot direc
 The file "12-filetype" displays the type of file /tmp/iamafile is.
 The file "13-symboliclink" creates a link to /bin/ls.
 The file "14-copyhtml" copies all the new and non existing HTML files from the current working directory to the parent of the working directory.
+The file "100-letsmove" moves all files starting with capital letters to /tmp/u.
 
