@@ -1,1 +1,2 @@
-file -m 0 string SCHOOL
+0 string SCHOOL school data
+!:mime school
