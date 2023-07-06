@@ -17,4 +17,5 @@ The file "100-letsmove" moves all files starting with capital letters to /tmp/u.
 The file "101-cleanemacs" removes all files that end with ~.
 The file "102-trees" creates a directory in a directory in a directory.
 The file "103-commas" adds commas to the listed files and directories.
+The file "school.mgc" detects school data types.
 
