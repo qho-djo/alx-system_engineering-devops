@@ -10,4 +10,5 @@ The file 8-JamesBond sets full permissions for Others and no permissions for Use
 The file 9-JohnDoe sets permissions rwx for users, rx for groups and wx for .
 The file 10-mirrorpermissions copies permissions of hello to olleh.
 The file 11-directoriespermissions adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+The file 12-directorypermissions creates a directory called mydir with permissions 751 in the working directory.
 
