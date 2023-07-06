@@ -15,4 +15,5 @@ The file "13-symboliclink" creates a link to /bin/ls.
 The file "14-copyhtml" copies all the new and non existing HTML files from the current working directory to the parent of the working directory.
 The file "100-letsmove" moves all files starting with capital letters to /tmp/u.
 The file "101-cleanemacs" removes all files that end with ~.
+The file "102-trees" creates a directory in a directory in a directory.
 
