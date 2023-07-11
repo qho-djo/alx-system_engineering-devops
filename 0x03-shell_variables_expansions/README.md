@@ -4,3 +4,4 @@ Creating an alias
 Hello User
 Path
 Paths
+Global Variables
