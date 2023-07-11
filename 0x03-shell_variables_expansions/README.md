@@ -3,3 +3,4 @@ Readme for 0x03
 Creating an alias
 Hello User
 Path
+Paths
