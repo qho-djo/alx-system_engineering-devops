@@ -8,4 +8,3 @@ Global Variables
 Local Var
 Local Var
 Global Var
-Global Var
