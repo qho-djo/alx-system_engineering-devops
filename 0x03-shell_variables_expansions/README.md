@@ -16,3 +16,4 @@ Omiting "oo"
 Ommiting "oo"
 Ommiting "oo"
 Floating NUM
+Hexa D
