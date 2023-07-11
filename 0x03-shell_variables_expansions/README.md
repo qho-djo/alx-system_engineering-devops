@@ -9,3 +9,4 @@ Local Var
 Local Var
 Global Var
 True Knowledge
+Divide and Rule
